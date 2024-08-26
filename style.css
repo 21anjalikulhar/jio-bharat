@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Moderustic", sans-serif;
+    cursor: pointer;
     /* border: 1px solid red; */
 }
 .main-container{
